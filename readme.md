@@ -23,7 +23,7 @@ This project focuses on breast cancer detection using machine learning technique
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/breast-cancer-detection.git
+    git clone https://github.com/Yuval728/breast-cancer-detection.git
     cd breast-cancer-detection
     ```
 
